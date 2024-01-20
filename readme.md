@@ -9,10 +9,11 @@
 Trabalhando na área de suport e implantação de sistemas hà 3 anos, com conhecimento e sistemas de ERP e processos administrativos, atualmente atuando da área de implantação de sistema de saúde.
 
 
-##Languagens
--SQL
--PHYTON
--C#
+## Languagens
+- SQL
+- PHYTON
+- PJYTON
+
 
 
 
